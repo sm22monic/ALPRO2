@@ -63,7 +63,7 @@ void data1 () {
 
 void kota () {
 	cout << "*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*" << endl <<endl;
-	cout << "\t\t\t    Pilih Stasiun tujuan :" << endl << endl;
+	cout << "\t\t\t    Pilih Stasiun Asal :" << endl << endl;
 	cout << "\t\t\t\t1. Bandung" 	<< endl;
 	cout << "\t\t\t\t2. Jakarta" 	<< endl;
 	cout << "\t\t\t\t3. Malang" 	<< endl;
@@ -80,7 +80,7 @@ void kota () {
 		}
 		
 	cout << "*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*" << endl <<endl;
-	cout << "\t\t\t    Pilih Stasiun asal :" << endl << endl;
+	cout << "\t\t\t    Pilih Stasiun Tujuan :" << endl << endl;
 	cout << "\t\t\t\t1. Surabaya" 	<< endl;
 	cout << "\t\t\t\t2. Cirebon" 	<< endl;
 	cout << "\t\t\t\t3. Jogjakarta" << endl;
