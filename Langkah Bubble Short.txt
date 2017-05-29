@@ -1,0 +1,10 @@
+﻿Langkah pengerjaan Bubble Short
+
+1.    Membandingkan data ke-i dengan data ke-(i+1) (tepat bersebelahan).
+      Jika tidak sesuai maka tukar (data ke-i = data ke-(i+1) dan data ke-(i+1) = data ke-i).
+2.    Membandingkan data ke-(i+1) dengan data ke-(i+2). Lakukan pembandingan ini sampai data terakhir.
+      Contoh: 1 dgn 2; 2 dgn 3; 3 dgn 4; 4 dgn 5 … ; n-1 dgn n.
+3.    Selesai satu proses, adalah jika kita sudah selesai membandingkan antara (n-1) dgn n.
+      Setelah selesai satu proses itu kita lanjutkan lagi ke proses berikutnya sesuai dengan aturan ke-1.
+      mulai dari data ke-1 dgn data ke-2, dst.
+4.    Proses akan berhenti jika tidak ada pertukaran dalam satu prosesnya.
